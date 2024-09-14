@@ -22,8 +22,3 @@ export class Loans{
 }
 
 
-// As modalidades de empréstimo que serão analisadas são:
-
-// Empréstimo pessoal: Taxa de juros de 4%.
-// Empréstimo consignado: Taxa de juros de 2%.
-// Empréstimo com garantia: Taxa de juros de 3%.

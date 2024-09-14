@@ -1,6 +1,6 @@
-# Empréstimos
+# Desafio loans
 
-Seu desafio será implementar um serviço que determine quais modalidades de empréstimo uma pessoa tem acesso.
+Este projeto é a resolução do desafio loans, utilizando NestJS e TypeScript, você pode encontrar esse desafio clicando ([aqui](https://github.com/backend-br/desafios/tree/master/loans)).
 
 ## Exemplo
 
